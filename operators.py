@@ -28,8 +28,6 @@ b = 5
 
 print(a and b)
 print(a or b)
-print(not a)
-# assignment operators
 a = 10
 b = 5
 
